@@ -1,0 +1,5 @@
+{
+  "name": "AI Persona Chat",
+  "description": "An application that allows users to interact with a pre-defined AI assistant persona for productivity and focus management, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
